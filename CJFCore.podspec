@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-                        iOS工程开发模块化管理的核心文件.
+                        架构文件，方便对iOS工程进行模块化管理，结构更新清晰，利于后期维护，可新建工程中引入使用.
                        DESC
 
   s.homepage         = 'https://github.com/JinfeiChen/CJFCore'
